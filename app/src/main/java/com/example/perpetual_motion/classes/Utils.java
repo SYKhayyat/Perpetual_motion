@@ -1,4 +1,4 @@
-package com.example.perpetual_motion.lib;
+package com.example.perpetual_motion.classes;
 
 import android.content.Context;
 import android.content.DialogInterface;

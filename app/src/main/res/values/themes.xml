@@ -7,7 +7,7 @@
     <style name="AppTheme.NoActionBar.SplashScreenTheme">
         <item name="android:background">@drawable/splash_background</item>
     </style>
-    <style name="AppTheme" parent="Theme.Material3.Light">
+    <style name="AppTheme.NoActionBar.Child" parent="Theme.Material3.Light.NoActionBar">
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
