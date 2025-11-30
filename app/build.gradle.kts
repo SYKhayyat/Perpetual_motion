@@ -37,7 +37,7 @@ android {
 }
 
 dependencies {
-    implementation(files("pm_game.aar"))
+    implementation(fileTree(mapOf("dir" to "libs", "include" to listOf("*.aar"))))
     implementation(libs.material)
     implementation(libs.constraintlayout)
     implementation("com.google.code.gson:gson:2.13.2")
