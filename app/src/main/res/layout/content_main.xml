@@ -8,5 +8,5 @@
     <include layout="@layout/main_include_content_board"
         android:id="@+id/card_board"/>
     <include layout="@layout/main_include_content_button_bar"
-        android:id="@+id/button_bar"/>
+        android:id="@+id/bb"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

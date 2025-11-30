@@ -13,7 +13,7 @@
         android:id="@+id/include_activity_toolbar"/>
     <include layout="@layout/content_main"
         android:id="@+id/content_main"/>
-    <include layout="@layout/main_include_activity_bottom_bar_and_fab"
+    <include layout="@layout/main_include_activity_bottom_bar_and_fab2"
         />
 
 
